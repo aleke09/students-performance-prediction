@@ -1,2 +1,2 @@
 # students-performance-prediction
-students performance evaluation using machine learning algorithms
+students performance evaluation using decision tree classifier
