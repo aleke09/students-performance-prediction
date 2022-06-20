@@ -1,2 +1,2 @@
 # students-performance-prediction
-students performance evaluation using decision tree classifier
+Students Performance Evaluation using Decision Tree Classifier
